@@ -101,7 +101,7 @@ ft_lstiter()      // Apply function to each element
 ### Installation
 ```bash
 # Clone the repository
-git clone [your-repo-url] libft
+git clone https://github.com/Myxoceph/Libft libft
 cd libft
 
 # Compile the library
